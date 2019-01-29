@@ -1,0 +1,6 @@
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\bin\Assignment21_WCF_Service.dll.config
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\bin\Assignment21_WCF_Service.dll
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\bin\Assignment21_WCF_Service.pdb
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\obj\Debug\Assignment21_WCF_Service.csprojResolveAssemblyReference.cache
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\obj\Debug\Assignment21_WCF_Service.dll
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_WCF_Service\obj\Debug\Assignment21_WCF_Service.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a62c6bc6-74af-4255-a800-f6ce60a924ac" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8182/Q2_Calc.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Q2_Calc.xsd" MetadataType="Schema" ID="6addca1f-fda5-4042-b757-9290a8d79fc7" SourceId="1" SourceUrl="http://localhost:8182/Q2_Calc.svc?xsd=xsd1" />
+    <MetadataFile FileName="Q2_Calc1.xsd" MetadataType="Schema" ID="daa91b86-876d-43b7-95fd-1df41f887ad2" SourceId="1" SourceUrl="http://localhost:8182/Q2_Calc.svc?xsd=xsd0" />
+    <MetadataFile FileName="Q2_Calc.wsdl" MetadataType="Wsdl" ID="fe3fd8e6-c89b-4c74-a3d5-2242f8c36488" SourceId="1" SourceUrl="http://localhost:8182/Q2_Calc.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_Q1_Host.exe.config
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_Q1_Host.exe
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_Q1_Host.pdb
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_WCF_Service.dll
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_WCF_Service.pdb
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\bin\Debug\Assignment21_WCF_Service.dll.config
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.csprojResolveAssemblyReference.cache
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.Form1.resources
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.Properties.Resources.resources
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.csproj.GenerateResource.Cache
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.exe
+C:\Assignments\Assignment 21\Assignment21_WCF_Service\Assignment21_Q1_Host\obj\Debug\Assignment21_Q1_Host.pdb
